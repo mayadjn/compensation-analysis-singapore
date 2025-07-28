@@ -12,7 +12,7 @@ This analysis examines the relationship between non-resident labor and salary gr
 
 # Key Findings
 
-### 📈 salary growth rate across industries (2015-2024
+### 📈 salary growth rate across industries (2015-2024)
 **Top Performers:**
 - Information & Communication: 1.63%
 - Health & Social Services: 0.82% 
@@ -22,7 +22,7 @@ This analysis examines the relationship between non-resident labor and salary gr
 - Real Estate: 0.006%
 - Manufacturing: 0.12%
 
-### 📊 Quarterly trends in leading industries
+### 📊 Salary trends through years and quarters
 - Overall salary growth maintained steady increase
 - Growth plateau observed during 2019-2020
 - Post-2020 recovery to pre-2019 growth trends
